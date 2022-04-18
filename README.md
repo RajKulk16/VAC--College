@@ -1,5 +1,6 @@
 # VAC--College
-CSE-AIML-'A'; III year
+III - CSE-AIML-'A'
+
 Assessments - Personal (024)
 
 Projects - 
